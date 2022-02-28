@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the tryal of Titus Oates for perjury at the Kings-Bench-barr at Westminster on Friday the 8th. of May, 1685.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95116</idno>
+            <idno type="STC">Wing T2840AE</idno>
+            <idno type="STC">ESTC R232387</idno>
+            <idno type="EEBO-CITATION">42476390</idno>
+            <idno type="OCLC">ocm 42476390</idno>
+            <idno type="VID">151413</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151413)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the tryal of Titus Oates for perjury at the Kings-Bench-barr at Westminster on Friday the 8th. of May, 1685.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>Re-printed 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151413:1" rendition="simple:additions"/>
+            <head>A TRUE NARRATIVE Of The TRYAL Of Titus Oates for Perjury At the KING S-Bench-Barr at Weſtmin<g ref="char:EOLhyphen"/>ſter On Friday the 8th. of May. 1685</head>
+            <p>PErjury is one of the moſt deteſtable Crimes, eſpecially when its complicated with Murther; for it violates at once all Laws Humane and Divine, unhinging the whole ſociety of the World. This day being the eighth day of this preſent month of <hi>May,</hi> 1685. was Convicted of this moſt abominable Crime. <hi>Titus Oates</hi> formerly known by the name of the <hi>Salamanca</hi> Do<g ref="char:EOLhyphen"/>ctor, one who by his Perjury and Lies inflamed and liked to have overthrown three moſt flouriſhing Kingdoms: The manner thus;</p>
+            <p>About nine of the Clock in the Forenoon the Court ſate, where was the Right Honourable <hi>Sir George Jefferies</hi> Kt. and Bar. Lord Chief Juſtice of <hi>England,</hi> Judge <hi>Witthins,</hi> Judge <hi>Holloway,</hi> &amp;c. being on the Bench, and the Jury called, <hi>Oates</hi> excepted againſt ſome of them for being of the Grand Jury, when the Indictment was found, and it was admitted for a juſt Barr; then the Indict<g ref="char:EOLhyphen"/>ment was read in <hi>Latin</hi> and <hi>Engliſh;</hi> the ſubſtance of which was, that whereas <hi>Titus Oates</hi> had ſworn, and cauſed to be put to
+<pb n="2" facs="tcp:151413:2"/>Death ſeveral Perſons, namely the Five <hi>Jeſuits, Pickering, Groves</hi> and <hi>Ireland,</hi> &amp;c.</p>
+            <p>He ſwore that he was at a Confult at the <hi>White-Horſe. Tavern</hi> in the <hi>Strand,</hi> where he being preſent, and carrying the Papers i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which the Death of King <hi>Charles</hi> the Second of Bleſſed Memory, from one Chamber to another, where he ſaid they all unanimouſ<g ref="char:EOLhyphen"/>ly Signed the Kings Death on the 24th. of <hi>April Anno Dom.</hi> 1678. The Falſities of which was proved by theſe following Evidence, <hi>&amp;c.</hi> Were not here named, being all perſons of Quality and Eſtates, who hapned to be Students at St <hi>Omers</hi> at that time that <hi>Oates</hi> was there. Firſt Mr. <hi>Hillſly</hi> depoſed that he came from St. <hi>Omers</hi> the very day that Mr. <hi>Oates</hi> pretended that the Conſult was in the <hi>Strand,</hi> and that he left Mr. <hi>Oates</hi> there; and whereas <hi>Oates</hi> had formerly Sworn that he came over with <hi>Hillſly: Hillſly</hi> ſwore he did not ſee him all the way: Then Mr. <hi>Barnaby</hi> ſwore that he met Mr. <hi>Hillsly</hi> by the way and he ſaw not <hi>Oates</hi> with him, and that going on to <hi>St Omers</hi> and arriving there within two days af<g ref="char:EOLhyphen"/>ter he had met Mr. <hi>Hillsly</hi> in Kent, he found Mr. <hi>Oates</hi> at St. <hi>Omers,</hi> ſo that he poſſibly could not be here in <hi>London,</hi> all the reſt of the Witneſſes for the King, ſwore that <hi>Oates</hi> coming to St. <hi>Omers</hi> about <hi>December</hi> 1677 never was to their knowledg out of the Seminory till the the Mid-Summer 1678, But one night which was at <hi>Watton,</hi> a place about two Leagues from <hi>St. Omers,</hi> and they ſaw him every day either at Meat or Play, and that he was ſo remarkable for his odd Carriage, that they took particu<g ref="char:EOLhyphen"/>lar notice of him, eſpecially he ſitting at a particular Table, and not among the Boys by reaſon of his Age. This was atteſted by above 20 Witneſſes, <hi>viz.</hi> Lord <hi>Gerrard Bromely,—Gerrard</hi> 
+               <abbr>Eſq</abbr> —<hi>Hagerſton,</hi> 
+               <abbr>Eſq</abbr> —<hi>Wright</hi> 
+               <abbr>Eſq</abbr> — <hi>Price,</hi> Mr. <hi>Arundel — Turbervill</hi> 
+               <abbr>Eſq</abbr> — <hi>Thornton</hi> 
+               <abbr>Eſq</abbr> — <hi>Pool</hi> 
+               <abbr>Eſq</abbr> Mr. <hi>Dorrel</hi> and one Mr. <hi>Morgan,</hi> one that was then a Papiſt, but is now a Church of <hi>England</hi> Miniſter, <hi>&amp;c.</hi>
+            </p>
+            <p>Mr <hi>Oates</hi>'s Queſtions put to them, was, what Religion they were of, and how long they were there, and what they did there; and offered to ask ſome things, which was, my <hi>Lord Chief Juſtice</hi> told him, not proper nor fit for them to anſwer, becauſe of Penal Statutes againſt <hi>Papiſts:</hi> He behaved himſelf with his wonted Confidence, and ſeemed to have more Braſs in his Face than ever; but my <hi>Lord Chief Juſtice</hi> kept him within his bounds, and gave him all the fair Play imaginable, before he began his particular Defence; he made a long canting Harangue how he had been be<g ref="char:EOLhyphen"/>lieved by Parliaments, and how ſeveral Judges had ſpoke former<g ref="char:EOLhyphen"/>ly of him, and particularly my <hi>Lord Chief Juſtice;</hi> all which be<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:151413:2"/>
+               <pb facs="tcp:151413:3"/>
+               <pb n="3" facs="tcp:151413:3" rendition="simple:additions"/>not admitted as Evidence, he was directed by the Court, to prove his being here in <hi>April</hi> the 24th. 78. he produced one Mrs. <hi>Cicely Majo;</hi> who ſwore that about that time ſhe ſaw him in a Diſguiſe at Sir <hi>Richard Barkers</hi> Houſe: He having on a Grey Hat, no Hair, a pitiful Gray Sute. Sir <hi>Robert's</hi> Coach-man, ſwore he ſaw him there in a black Hat, a long black Perriwig and a Cinnamon Sute; beſides they diſagreed in ſeveral things, and ſo they being but otherwiſe deſpicable People, their Evidence was looked upon as nothing worth; and they contradicted <hi>Oates</hi>'s own Teſtimony, for he ſwore he was back at St. <hi>Omers</hi> in the begin<g ref="char:EOLhyphen"/>ning of <hi>May,</hi> and my <hi>Lord Chief Juſtice</hi> asked <hi>Oates</hi> where he Lodged when he pretended to be here in <hi>April</hi> and the begin<g ref="char:EOLhyphen"/>ning of <hi>May.</hi> that he might produce the People of the Houſe to be Evidence for his being here; but he ſhuffled and would asſign none, which was look'd on by all as a clear Conviction. After this<g ref="char:punc">▪</g> Mr. <hi>Oates</hi> to make a Noiſe cauſed to be called a many great Names to ſhew what Authority his Evidence once had <hi>viz.</hi> my Lord <hi>Devonſhire,</hi> my Lord <hi>Clay,</hi> who ſaid it was ſo long ſince, that they could give ſmall account of it; my Lord <hi>Huntingdon</hi> ſaid it is true, he once believed ſomething which he ſwore, but he did now on his Conſcience believe him to be an errant Rogue, and a ſpiller of Innocent blood.</p>
+            <p>My Lord Barron <hi>Montague</hi> being called by <hi>Oates,</hi> he gave him a ſlender Character, and that formerly he did not hear him.</p>
+            <p>Mr, <hi>Williams,</hi> Speaker of the <hi>Houſe of Commons,</hi> Sir <hi>George Treby</hi> were called, but ſaid little or nothing.</p>
+            <p>After Mr. <hi>Oates</hi> had done with his Evidence, Mr. <hi>Attorney General</hi> brought in more Evidence for the King, ſome to prove, o<g ref="char:EOLhyphen"/>thers to Corroborate. The witneſs to prove where firſt Sir <hi>George Wakeman,</hi> who was formerly quitted at the <hi>Old-Bayly:</hi> After Sir <hi>George</hi> was ſworn, he was asked by the Court with what Mr <hi>Oates,</hi> had formerly ſworn againſt him, <hi>viz.</hi> of taking 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> to poyſon the King; and he anſwered by Vittue of the Oath he had taken, it was all falſe. My Lord <hi>Caſtlemain</hi> atteſted the ſame as to the Treaſon <hi>Oates</hi> had formerly Charged him with, then one Mr. <hi>Smith,</hi> formerly Schoolmaſter in <hi>Islington</hi> was produced, and it was proved that he confeſſed himſelf Perjured in Favor of <hi>Oates</hi>'s Teſtimony in the Tryal of the Five <hi>Jeſuits</hi> being induced by Fear and Gain.</p>
+            <p>The ſame was proved upon Mr: <hi>Clay</hi> who was induced by threars and promiſes of <hi>Oates</hi> and Sir <hi>William Waller,</hi> this was proved by one Mr. <hi>Davenport</hi> a keeper of the <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>l who heard him threaten <hi>Clay,</hi> with Death, unleſs he would ſecond his Evi<g ref="char:EOLhyphen"/>dence,
+<pb n="4" facs="tcp:151413:4"/>and he being an Old Weak man, was drawn in. After the Evidence on both ſides had made an end, My <hi>Lord Chief Juſtice</hi> told the Priſoner he had free Liberty to make what Exceptions he pleaſed, Who then began a long and Malapert Harangue; the chief drift of which was to prove that the Papiſts ought not to be Credited becauſe they were Papiſts, and for this produced ſome Records and Statutes.</p>
+            <p>And to this he was anſwered by my <hi>Lord Chief Juſtice,</hi> that by the ſame Reaſon all the Diſſenters from the Church of <hi>England</hi> ought to be excepted.</p>
+            <p>And that it was impoſſible at that Rate that any man ſhould have Right done him. <hi>Oates</hi> was for the moſt part all along his Speech Impertinent and ſaucy, ſo that my Lord threatned to turn him out of the Court, and after he had ſpent ſomething more than half an hours time he withdrew of himſelf, and went out of the Hall, with his Guards along with him, as he came towards the middle of the Hall, the People began to ſhout, and ſo ſhouted him quite out of the Hall.</p>
+            <p>After a little ſpace of Silence, the Sollicitor General began <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſum up the whole, and continued for three quarters of an hour, When he had done, my <hi>Lord Chief Juſtice</hi> began a moſt Eloquent and Emphatical Speech.</p>
+            <p>Amongſt other things, telling the Jury, that this was a cauſe that the Honour of the whole Nation was concerned in, not to let a perſon ſo publickly infamous, eſcape Juſtice. That he was a perſon of an hardned impudence and Conſcience, and not worthy of the Name of the Church of <hi>England,</hi> that he was Guilty of ipil<g ref="char:EOLhyphen"/>ling Innocent Blood, and had ſpared no perſon though never ſo nearly related to the Crown. And after he had exactly and par<g ref="char:EOLhyphen"/>ticularly Summed up all the witneſſes on both ſides<g ref="char:punc">▪</g> He conclu<g ref="char:EOLhyphen"/>ded with theſe Words, <hi>That he was the blackeſt Villain upon the Face of the Earth.</hi>
+            </p>
+            <p>As theſe Prodigious Crimes do plainly manifeſt to every unpre<g ref="char:EOLhyphen"/>judiced perſon</p>
+            <p>The Speech being e<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ed, the Jury withdrew, and after a cer<g ref="char:EOLhyphen"/>tain ſpace of time returned again, and brought him in Guilty of the Indictment.</p>
+            <p>And thus, this Fa<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ioſo, who ſought to get an infamous Fame, by inflaming theſe Kingdoms, like him that thought to Eterniſe his name, by Burning of the Temple of <hi>Diana,</hi> he is like to have a never Dying Name, in an Eternal Infamy.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin</hi> Re-printed. 1685.</p>
+            <pb facs="tcp:151413:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
